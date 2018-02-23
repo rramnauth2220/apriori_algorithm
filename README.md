@@ -4,3 +4,5 @@ Expected to support:
 - Support calculation
 - Confidence calculation
 - Association rule generation
+
+Protected by the GNU General Public License (2/21/2018)
