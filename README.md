@@ -1,4 +1,4 @@
-# Apriori Mining Algorithm - Java Implementation
+# Apriori Mining Algorithm
 Expected to support: 
 - Reading user-inputted data files
 - Support calculation
